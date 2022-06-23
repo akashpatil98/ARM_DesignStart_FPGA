@@ -1,4 +1,4 @@
-# Arty DesignStart FPGA
+# ARM DesignStart FPGA
 This repository contains the workspace for ARM DesignStart FPGA Cortex M3 softcore CPU for Arty A7-35T FPGA.
 The link for the tutorial can be found here:
 1. ZeroSquaredIO: [YouTube video](https://www.youtube.com/watch?v=ehQHfEaYDgQ) and [GitHub page](https://github.com/zerosquaredio/arty/blob/main/35t/tutorial1_vivado_2019.1.md)
